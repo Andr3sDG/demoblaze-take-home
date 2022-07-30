@@ -15,4 +15,4 @@ npx cypress open
 
 It should open cypress interface, select e2e testing, then your preferred browser.
 
-At the end select the **petstore.spec.js** and let the magic happen!
+At the end select the **demoblaze.spec.js** and let the magic happen!
