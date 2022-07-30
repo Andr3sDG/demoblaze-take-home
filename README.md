@@ -1,6 +1,6 @@
 # Demoblaze take home
 
-##Instalation
+## Instalation
 
 Clone this project in some local folder of your local pc:
 ```
